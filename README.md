@@ -30,6 +30,9 @@ Al final se obtiene el siguiente Resultado:
 <img width="867" height="532" alt="image" src="https://github.com/user-attachments/assets/eee0abef-2202-4424-85d2-2a144e14cc95" />
 <img width="862" height="586" alt="image" src="https://github.com/user-attachments/assets/6ee356a6-24d1-46ea-b6fc-8e14ae972400" />
 
+Luego desde esa misma aplicación se puede enviar el mail con el informe al respectivo cliente.
+
+<img width="1142" height="507" alt="image" src="https://github.com/user-attachments/assets/372eadea-a85a-4621-8d51-e79c394f82f1" />
 
 
 
