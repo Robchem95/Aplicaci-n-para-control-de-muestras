@@ -7,6 +7,8 @@ Se creo un entorno de sharepoint para centralizar las diferentes funciones.
 
 <img width="799" height="521" alt="image" src="https://github.com/user-attachments/assets/f6a9de5f-cd2c-48fc-84a1-0b87c4440504" />
 
+#Aplicación para carga de análisis
+
 En esta se puede acceder a la aplicación general, la primera parte muestra una galeria con la lista de análisis con un código único para cada informe.
 
 <img width="1352" height="522" alt="image" src="https://github.com/user-attachments/assets/694b265d-50bd-412a-a760-73df80fa4617" />
@@ -34,8 +36,11 @@ Luego desde esa misma aplicación se puede enviar el mail con el informe al resp
 
 <img width="1142" height="507" alt="image" src="https://github.com/user-attachments/assets/372eadea-a85a-4621-8d51-e79c394f82f1" />
 
+# Aplicación para carga de clientes
 
+Se habilita además un entorno para la creación de clientes con sus respectivos puntos de muestreo y análisis , esto alimentara el modulo de carga de análisis. 
 
+<img width="1883" height="759" alt="image" src="https://github.com/user-attachments/assets/9e80212d-d682-419f-a023-c054a28c2bc6" />
 
 
 
