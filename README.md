@@ -42,6 +42,10 @@ Se habilita además un entorno para la creación de clientes con sus respectivos
 
 <img width="1883" height="759" alt="image" src="https://github.com/user-attachments/assets/9e80212d-d682-419f-a023-c054a28c2bc6" />
 
+cada cambio de estado durante el proceso del informe se notifica mediante un mail enviado automáticamente mediante un flujo de power automate. 
+
+<img width="786" height="729" alt="image" src="https://github.com/user-attachments/assets/6b0475b2-fbd0-457b-bfc1-000f1889b507" />
+
 
 
 
